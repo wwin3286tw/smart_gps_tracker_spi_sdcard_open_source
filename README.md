@@ -6,6 +6,7 @@
 ### 1. TTGO T1 ESP-32 V1.0 Rev1
 ### 2. GT-U8 GPS module
 ### 3. <=32 GB SDHC Micro SD card
+### 4. Lithium polymer battery
 
 ## Software tool included
 ### 1. csv2kml.py #convert gps data CSV file to KML
