@@ -19,6 +19,7 @@
 1. Files in SDcard
 ![image](https://user-images.githubusercontent.com/7022841/200154198-dc9d215d-371b-473d-9ed6-412519f1c2e0.png)
 2. Content of CSV file
-![image](https://user-images.githubusercontent.com/7022841/200154208-47297549-ac08-42f6-bfe6-86044d5e818a.png)
+![image](https://user-images.githubusercontent.com/7022841/200154239-f586d396-4909-4b16-9a03-bfc41929b021.png)
+
 3. Open KML file in Google Earth
 ![image](https://user-images.githubusercontent.com/7022841/200154227-06fcb245-a86d-465f-af21-27473c6b477d.png)
